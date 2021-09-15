@@ -4,7 +4,7 @@ This project is the implementation of the experiment proposed in "Deep Federated
 
 **Dataset**: https://archive.ics.uci.edu/ml/datasets/cardiotocography
 
-**Paper**: 
+**Paper**: Link will be provided soon!
 
 **Authors**: 
 
